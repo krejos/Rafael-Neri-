@@ -1,0 +1,9 @@
+# No seu computador
+unzip plataforma-videos-configurado.zip
+cd plataforma-videos            # pasta criada pelo ZIP
+git init
+git add .
+git commit -m "Versão inicial"
+git branch -M main
+git remote add origin https://github.com/<SEU_USUARIO>/plataforma-videos.git
+git push -u origin main
