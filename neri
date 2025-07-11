@@ -3,5 +3,5 @@ git init
 git add .
 git commit -m "Versão inicial"
 git branch -M main
-git remote add origin https://github.com/Rafael/plataforma-videos.git
+git remote add origin https://github.com/Rafael-Neri-/plataforma-videos.git
 git push -u origin main
