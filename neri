@@ -1,4 +1,4 @@
-cd plataforma-videos            # pasta criada pelo ZIP
+
 git init
 git add .
 git commit -m "Versão inicial"
